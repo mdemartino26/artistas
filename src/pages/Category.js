@@ -17,4 +17,4 @@ const Category = () => {
     )
 }
 
-export default Artist;
+export default Category;
